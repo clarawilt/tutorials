@@ -12,7 +12,7 @@ public class UserService {
     users.add(new User(1l, "Alice"));
     users.add(new User(2l, "Bob"));
     users.add(new User(3l, "Chris"));
-    users.add(new User(4l, "Dick"));
+    users.add(new User(4l, "Sharon"));
     users.add(new User(5l, "Eve"));
     users.add(new User(6l, "Finn"));
   }
